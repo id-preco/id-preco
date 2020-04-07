@@ -5,10 +5,10 @@
 ## Equipe:
 
 - [x] Front-End
-  > [Serjaum](), [João](), [Zaira](https://github.com/zaairaag) e [Tony](https://github.com/TonyDev77)
+  > [Serjaum](), [João]() e [Tony](https://github.com/TonyDev77)
 
 - [x] Back-End
-  > [Leonardo](https://github.com/devleonardo), [Fábio](), [Aislan](https://github.com/aislansistemas) e [Tony](https://github.com/TonyDev77)
+  > [Fábio](), [Aislan](https://github.com/aislansistemas) e [Tony](https://github.com/TonyDev77)
 
 - [x] Banco de Dados 
   > [Jorley](https://github.com/jorleyhuy)
